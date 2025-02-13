@@ -1,0 +1,2 @@
+# PHP Loose Comparison Type Juggling
+This repository demonstrates a common PHP bug related to loose comparison (`==`) and type juggling. The `bug.php` file contains code that exhibits unexpected behavior due to implicit type conversion during comparison.  The `bugSolution.php` file provides a corrected version using strict comparison (`===`).
